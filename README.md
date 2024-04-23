@@ -6,7 +6,7 @@ Oioi, aqui vou explicar um pouco sobre o meu frontend para o desafio técnico. M
 - Data.js - Principal parte do frontend: aqui o usuário digita o valor que é enviado para calculo no backend.
 - Popup.js - Telinha para organizar os dados fetchiados em App.js (é mostrado os históricos de dados).
 
-Além disso, também dei uma ajeitada para tentar deixar parecido com o prórpio site do bridge rsrs.
+Além disso, também dei uma ajeitada para tentar deixar parecido com o próprio site do bridge rsrs.
 
 Antes de rodar, lembre-se de baixar as dependências do projeto! `npm i`.
 
@@ -21,3 +21,7 @@ Rode esse comando para iniciar localmente a aplicação (caso for testar com o b
 que forem de seu desejo!)
 
 [http://localhost:3000](http://localhost:3000)
+
+## Rodando com servidor
+
+Para rodar junto ao servidor, cheque se os endpoints estão apontando corretamente para a API.

@@ -32,7 +32,7 @@ function Data() {
         'I waste on time to implement a way to use `long` type in springboot backend. Because of that, the maximum value calculable is 1073741827 :(. Also, using Python i got 200secs running this same value.'
       );
 
-      const response = await fetch('http://localhost:8080/challenge', {
+      const response = await fetch('https://bridge-backend-challenge-a21573102462.herokuapp.com/challenge', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

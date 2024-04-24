@@ -12,7 +12,7 @@ function App() {
   // Get data from mysql when user press 'show history' button.
   const handleHistoryButton = async () => {
     try {
-      const response = await fetch('http://localhost:8080/challenge', {
+      const response = await fetch('https://bridge-backend-challenge-a21573102462.herokuapp.com/challenge', {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json'

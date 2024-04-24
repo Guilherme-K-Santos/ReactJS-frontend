@@ -17,11 +17,10 @@ NPM - 10.5.2
 
 ### `npm start`
 
-Rode esse comando para iniciar localmente a aplicação (caso for testar com o backend, lembre-se de mudar as URL dos dois fetchs para os endpoints
-que forem de seu desejo!)
+Rode esse comando para iniciar localmente a aplicação (eu fiquei sem tempo e não consegui arrumar o deployment do frontend :D):
 
 [http://localhost:3000](http://localhost:3000)
 
-## Rodando com servidor
+## Testando
 
-Para rodar junto ao servidor, cheque se os endpoints estão apontando corretamente para a API.
+Para testar, basta iniciar a aplicação react com (seguido de `npm i`) `npm start` que ele estará apontando prontamente para o servidor na cloud.
